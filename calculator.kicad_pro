@@ -581,6 +581,10 @@
     [
       "1230978a-eef3-4475-8681-586f184da2b0",
       "Display"
+    ],
+    [
+      "fc53a69d-c150-48d1-8f57-fde6c7368d16",
+      "MK52 External ROM IO"
     ]
   ],
   "text_variables": {}
