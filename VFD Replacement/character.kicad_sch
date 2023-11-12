@@ -165,7 +165,7 @@
     (property "Value" "LED" (at 128.27 71.4374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 124.46 68.58 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 124.46 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 124.46 68.58 0)
@@ -184,6 +184,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D2") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D9") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D17") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D25") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D33") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D41") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D49") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D57") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D65") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D73") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D81") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D89") (unit 1)
+        )
       )
     )
   )
@@ -197,7 +230,7 @@
     (property "Value" "LED" (at 148.59 98.1074 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 144.78 95.25 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 144.78 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 144.78 95.25 0)
@@ -216,6 +249,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D7") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D15") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D23") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D31") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D39") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D47") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D55") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D63") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D71") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D79") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D87") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D95") (unit 1)
+        )
       )
     )
   )
@@ -229,7 +295,7 @@
     (property "Value" "LED" (at 173.6725 106.68 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 175.26 110.49 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 175.26 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.26 110.49 0)
@@ -248,6 +314,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D8") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D16") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D24") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D32") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D40") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D48") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D56") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D64") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D72") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D80") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D88") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D96") (unit 1)
+        )
       )
     )
   )
@@ -261,7 +360,7 @@
     (property "Value" "LED" (at 128.27 98.1074 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 124.46 95.25 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 124.46 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 124.46 95.25 0)
@@ -280,6 +379,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D3") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D10") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D18") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D26") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D34") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D42") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D50") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D58") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D66") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D74") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D82") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D90") (unit 1)
+        )
       )
     )
   )
@@ -293,7 +425,7 @@
     (property "Value" "LED" (at 134.3025 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 135.89 54.61 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 135.89 54.61 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 54.61 0)
@@ -312,6 +444,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D1") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D11") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D19") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D27") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D35") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D43") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D51") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D59") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D67") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D75") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D83") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D91") (unit 1)
+        )
       )
     )
   )
@@ -325,7 +490,7 @@
     (property "Value" "LED" (at 135.5725 106.68 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 137.16 110.49 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 137.16 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 110.49 0)
@@ -344,6 +509,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D4") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D13") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D21") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D29") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D37") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D45") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D53") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D61") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D69") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D77") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D85") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D93") (unit 1)
+        )
       )
     )
   )
@@ -357,7 +555,7 @@
     (property "Value" "LED" (at 134.3025 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 135.89 82.55 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 135.89 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 135.89 82.55 0)
@@ -376,6 +574,39 @@
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D5") (unit 1)
         )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D12") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D20") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D28") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D36") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D44") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D52") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D60") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D68") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D76") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D84") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D92") (unit 1)
+        )
       )
     )
   )
@@ -389,7 +620,7 @@
     (property "Value" "LED" (at 148.59 71.4374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 144.78 68.58 0)
+    (property "Footprint" "LED_SMD:LED_0402_1005Metric" (at 144.78 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 144.78 68.58 0)
@@ -407,6 +638,39 @@
         )
         (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1012d737-db0e-4240-8beb-a64e722a6075"
           (reference "D6") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/f4ded65d-d7f9-47f9-b148-4760cb8721c2"
+          (reference "D14") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/1ab50778-24dc-4f9e-8a25-7b2315de390a"
+          (reference "D22") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2201a0ff-cda3-41f1-9e15-f800b2622927"
+          (reference "D30") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/a072bf1c-66b7-478d-a523-92396c8dfea1"
+          (reference "D38") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/87356807-879a-4e6d-a7ea-19df9fe9361f"
+          (reference "D46") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/d4245a3b-5fa8-4d70-aa9b-c9939a9b90c7"
+          (reference "D54") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/7e64f978-4200-4de9-b886-83475f3de286"
+          (reference "D62") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/31d6d785-2f8d-4556-a767-37896ebaf274"
+          (reference "D70") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/3ed40c90-7259-41ca-92ea-477a4af34f51"
+          (reference "D78") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/2c3b1a75-52e6-4f38-9e08-87e38bee139a"
+          (reference "D86") (unit 1)
+        )
+        (path "/53e98b27-9cc4-4f53-8684-7cf1c7c2747d/92bb54bb-e1d1-4ef7-835e-102419a9e261"
+          (reference "D94") (unit 1)
         )
       )
     )
