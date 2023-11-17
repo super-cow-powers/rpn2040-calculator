@@ -1,4 +1,4 @@
-22468733294746202
+22455136320060603
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92504,59 +92504,3 @@ varistor
 0
 2
 2
-footprints
-Conn_1x05 2.5mm
-
-
-0
-5
-5
-footprints
-Conn_1x06 2.5mm
-
-
-0
-6
-6
-footprints
-HPC-BM
-
-
-0
-2
-2
-footprints
-Keystone 92 pair
-
-
-0
-4
-2
-footprints
-PTS526
-
-
-0
-4
-2
-footprints
-SIP-2
-
-
-0
-4
-2
-footprints
-display
-
-
-0
-20
-12
-footprints
-display module
-
-
-0
-0
-0
