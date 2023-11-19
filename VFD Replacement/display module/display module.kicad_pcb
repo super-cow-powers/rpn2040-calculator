@@ -6522,6 +6522,15 @@
 
   (gr_rect (start 130.928196 50.6) (end 182.8 61.6)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 355c853d-33ca-4c55-9b3a-e5cb4d99543d))
+  (gr_text "V1.0" (at 168.1 56.4 0) (layer "B.SilkS") (tstamp 1c2018ae-e6f9-497b-a464-8230c00fcaea)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
+  (gr_text "JLCJLCJLCJLC" (at 136.8 60.7 0) (layer "B.SilkS") (tstamp 4f9cf8b7-0356-48d8-9243-e41343b1d35f)
+    (effects (font (size 0.8 0.2) (thickness 0.025)) (justify left bottom mirror))
+  )
+  (gr_text "7-seg LED Display Module" (at 168.4 54.8 0) (layer "B.SilkS") (tstamp b2501473-7cb5-4f70-901b-51d5751b28bd)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
+  )
 
   (segment (start 153.399169 54.87) (end 153.8 54.87) (width 0.25) (layer "F.Cu") (net 1) (tstamp 077234b6-39ad-46ee-96b8-70929af1e826))
   (segment (start 157.25 54.466875) (end 157.25 52.781299) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0848e743-8b09-44e9-924d-1b65f9e9cfa7))
