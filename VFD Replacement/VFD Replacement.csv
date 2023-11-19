@@ -2,7 +2,7 @@
 1;"Q5,Q4,Q7,Q6,Q1,Q8,Q10,Q2,Q9,Q3";"SOT-363_SC-70-6";10;"MMDT2222A";;;
 2;"R35,R36,R32,R30,R37,R34,R33,R27,R29,R31,R26,R28";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";12;"12k";;;
 3;"R18,R21,R20,R24,R22,R17,R19,R23";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";8;"2k4";;;
-4;"R1,R5,R3,R7,R8,R6,R2,R4";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";8;"1k";;;
+4;"R1,R5,R3,R7,R8,R6,R2,R4";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";8;"2.4k";;;
 5;"J3,J4";"Conn_1x06 2.5mm";2;"Conn_01x06_Pin";;;
 6;"J1,J2";"Conn_1x05 2.5mm";2;"Conn_01x05_Pin";;;
 7;"J5";"PinHeader_1x02_P2.54mm_Vertical";1;"Conn_01x02_Pin";;;
