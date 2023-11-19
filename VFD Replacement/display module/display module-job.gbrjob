@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.99.0-3522-gc5520b3eef-dirty"
     },
-    "CreationDate": "2023-11-19T20:13:54+00:00"
+    "CreationDate": "2023-11-19T20:47:48+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "VFD Replacement",
-      "GUID": "56464420-5265-4706-9c61-63656d656e74",
+      "Name": "display module",
+      "GUID": "64697370-6c61-4792-906d-6f64756c652e",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 65.1,
-      "Y": 27.6
+      "X": 51.9718,
+      "Y": 11.1
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "VFD Replacement-F_Cu.gbr",
+      "Path": "display module-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "VFD Replacement-B_Cu.gbr",
+      "Path": "display module-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "VFD Replacement-F_Paste.gbr",
+      "Path": "display module-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "VFD Replacement-B_Paste.gbr",
+      "Path": "display module-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "VFD Replacement-F_Silkscreen.gbr",
+      "Path": "display module-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "VFD Replacement-B_Silkscreen.gbr",
+      "Path": "display module-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "VFD Replacement-F_Mask.gbr",
+      "Path": "display module-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "VFD Replacement-B_Mask.gbr",
+      "Path": "display module-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "VFD Replacement-Edge_Cuts.gbr",
+      "Path": "display module-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

@@ -1,0 +1,45 @@
+### Footprint positions - created on 2023-11-19T20:14:41+0000 ###
+### Printed by KiCad version 7.99.0-3522-gc5520b3eef-dirty
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                                           PosX       PosY       Rot  Side
+Q1        MMDT2222A  SOT-363_SC-70-6                               129.2500   -63.9500    0.0000  top
+Q2        MMDT2222A  SOT-363_SC-70-6                               139.5500   -63.9500    0.0000  top
+Q3        MMDT2222A  SOT-363_SC-70-6                               175.6500   -63.8000    0.0000  top
+Q4        MMDT2222A  SOT-363_SC-70-6                               185.3500   -63.8000    0.0000  top
+Q5        MMDT2222A  SOT-363_SC-70-6                               134.4500   -63.9500    0.0000  top
+Q6        MMDT2222A  SOT-363_SC-70-6                               180.6500   -63.8000    0.0000  top
+Q7        MMDT2222A  SOT-363_SC-70-6                               164.9500   -45.4000  180.0000  top
+Q8        MMDT2222A  SOT-363_SC-70-6                               185.4250   -45.9500  180.0000  top
+Q9        MMDT2222A  SOT-363_SC-70-6                               129.1500   -46.0000  180.0000  top
+Q10       MMDT2222A  SOT-363_SC-70-6                               146.7000   -45.8500    0.0000  top
+R1        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   170.8000   -46.9125   90.0000  top
+R2        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   175.3000   -46.9125  -90.0000  top
+R3        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   178.3000   -46.9125  -90.0000  top
+R4        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   181.3000   -46.9125  -90.0000  top
+R5        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   132.4000   -46.8875  -90.0000  top
+R6        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   135.4000   -46.8875  -90.0000  top
+R7        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   142.9000   -46.9125  -90.0000  top
+R8        1k         R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   139.9000   -46.9375  -90.0000  top
+R17       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   164.9875   -47.6000    0.0000  top
+R18       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   164.9875   -49.2000    0.0000  top
+R19       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   185.3875   -50.0000    0.0000  top
+R20       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   185.3875   -48.4000    0.0000  top
+R21       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   129.1875   -49.8500  180.0000  top
+R22       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   129.2125   -48.2500  180.0000  top
+R23       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   146.6875   -48.0000  180.0000  top
+R24       2k4        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   146.6875   -49.5000  180.0000  top
+R25       10k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   157.4875   -44.4000  180.0000  top
+R26       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   129.1875   -67.4000  180.0000  top
+R27       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   167.9875   -67.4000    0.0000  top
+R28       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   132.5125   -67.4000  180.0000  top
+R29       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   171.2875   -67.4000    0.0000  top
+R30       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   135.9000   -67.4000  180.0000  top
+R31       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   174.5875   -67.4000    0.0000  top
+R32       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   139.2125   -67.4000  180.0000  top
+R33       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   177.9000   -67.4000    0.0000  top
+R34       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   142.6000   -67.4000  180.0000  top
+R35       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   181.2000   -67.4000    0.0000  top
+R36       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   145.9000   -67.4000  180.0000  top
+R37       12k        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   184.5875   -67.4000    0.0000  top
+## End
