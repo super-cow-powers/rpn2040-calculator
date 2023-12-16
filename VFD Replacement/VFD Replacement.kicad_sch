@@ -1364,7 +1364,7 @@
     (property "Reference" "R1" (at 83.312 42.418 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10k" (at 83.312 44.958 90)
+    (property "Value" "12k" (at 83.312 44.958 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 81.28 45.212 90)
