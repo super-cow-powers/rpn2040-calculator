@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Og",
+      "-ggdb",
+      "-I./inc",
+      "-o",
+      "bin/cli-main.o",
+      "src/cli-main.c"
+    ],
+    "directory": "/home/david/Documents/calculator/elektronika code",
+    "file": "/home/david/Documents/calculator/elektronika code/src/cli-main.c",
+    "output": "/home/david/Documents/calculator/elektronika code/bin/cli-main.o"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Og",
+      "-ggdb",
+      "-I./inc",
+      "-o",
+      "bin/emu-core.o",
+      "src/emu-core.c"
+    ],
+    "directory": "/home/david/Documents/calculator/elektronika code",
+    "file": "/home/david/Documents/calculator/elektronika code/src/emu-core.c",
+    "output": "/home/david/Documents/calculator/elektronika code/bin/emu-core.o"
+  }
+]

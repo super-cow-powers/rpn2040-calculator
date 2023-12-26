@@ -1,0 +1,16 @@
+CC=gcc
+LD=ld
+
+OPTFLAGS=-Og -ggdb
+LDFLAGS=-lm
+DEFS=
+INCDIRS=inc/
+SRCFILES=src/cli-main.c src/emu-core.c src/stack-man.c
+BINDIR=bin/
+
+OBJS=$(patsubst src/%.c,$(BINDIR)%.o,$(SRCFILES))
+
+CFLAGS+=$(OPTFLAGS) $(LDFLAGS) $(DEFS)
+
+$(BINDIR)/%.o:
+	$(CC) -c -o $@ $< $(CFLAGS) $(LDFLAGS) 
