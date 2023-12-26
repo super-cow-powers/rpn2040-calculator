@@ -5,7 +5,7 @@ OPTFLAGS=-Og -ggdb
 LDFLAGS=-lm
 DEFS=
 INCLUDES=-I./inc
-SRCFILES=src/cli-main.c src/emu-core.c src/stack-man.c
+SRCFILES=src/cli-main.c src/emu-core.c src/calc-stack.c
 BINDIR=./bin
 
 all: $(BINDIR)/cli_exe

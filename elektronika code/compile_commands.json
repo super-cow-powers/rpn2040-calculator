@@ -28,5 +28,20 @@
     "directory": "/home/david/Documents/calculator/elektronika code",
     "file": "/home/david/Documents/calculator/elektronika code/src/emu-core.c",
     "output": "/home/david/Documents/calculator/elektronika code/bin/emu-core.o"
+  },
+  {
+    "arguments": [
+      "/usr/sbin/gcc",
+      "-c",
+      "-Og",
+      "-ggdb",
+      "-I./inc",
+      "-o",
+      "bin/calc-stack.o",
+      "src/calc-stack.c"
+    ],
+    "directory": "/home/david/Documents/calculator/elektronika code",
+    "file": "/home/david/Documents/calculator/elektronika code/src/calc-stack.c",
+    "output": "/home/david/Documents/calculator/elektronika code/bin/calc-stack.o"
   }
 ]
